@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on mlops (`kubeflow` and so on)
 - 📫 How to reach me: <jameszhou2108@hotmail.com>
 
 <!--

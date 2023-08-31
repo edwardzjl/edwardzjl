@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on mlops (`kubeflow` and so on)
+- 🔭 I’m currently working on LLM apps (mainly using `langchain`), devops (`knative-serving`) and mlops (`kubeflow`) and so on.
 - 📫 How to reach me: <jameszhou2108@hotmail.com>
 
 <!--
